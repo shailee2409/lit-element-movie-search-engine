@@ -13,7 +13,7 @@ export class FooterElement extends LitElement {
         Developed by Shailee Sheth
         <a
           class="git-link"
-          href="https://github.com/krishUdemy/movie-search-engine"
+          href="https://github.com/shailee2409/lit-element-movie-search-engine.git"
           target="_blank"
           >github</a
         >
